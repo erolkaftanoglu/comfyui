@@ -37,6 +37,9 @@ VAE_MODELS=(
 )
 
 LORA_MODELS=(
+    "https://huggingface.co/erolkaftanoglu/beijedress/blob/main/beijedress.safetensors"
+    "https://huggingface.co/erolkaftanoglu/kayikyaka/blob/main/kayikyaka.safetensors"
+    "https://huggingface.co/erolkaftanoglu/irinamarch/blob/main/irinamarch.safetensors"
 )
 
 ESRGAN_MODELS=(
