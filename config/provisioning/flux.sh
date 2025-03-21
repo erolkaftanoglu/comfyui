@@ -40,6 +40,7 @@ LORA_MODELS=(
     "https://huggingface.co/erolkaftanoglu/beijedress/blob/main/beijedress.safetensors"
     "https://huggingface.co/erolkaftanoglu/kayikyaka/blob/main/kayikyaka.safetensors"
     "https://huggingface.co/erolkaftanoglu/irinamarch/blob/main/irinamarch.safetensors"
+    "https://huggingface.co/erolkaftanoglu/beyazdantelli/blob/main/beyazdantelli.safetensors"
 )
 
 ESRGAN_MODELS=(
